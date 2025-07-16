@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "make": "Mercedes",
+      "cost": 15000,
+      "sold": true,
+      "car_image": "/assest/images/benz.jpg",
+      "id": "ec2f"
+    },
+    {
+      "make": "BMW",
+      "cost": 7000,
+      "sold": true,
+      "car_image": "/assest/images/bmw.jpg",
+      "id": "ec3f"
+    },
+    {
+      "make": "Audi",
+      "cost": 10000,
+      "sold": false,
+      "car_image": "/assest/images/audi.jpg",
+      "id": "1208"
+    },
+    {
+      "id": "2104",
+      "make": "Toyota",
+      "cost": 5000,
+      "sold": false
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "Aldo",
+      "lastName": "Dauti",
+      "email": "aldo@test.com",
+      "phone": 692071596,
+      "location": "Tirane",
+      "isCustomer": true,
+      "id": "79f6"
+    },
+    {
+      "id": "0993",
+      "firstName": "Lorena",
+      "lastName": "Dauti",
+      "email": "lori@gmail.com",
+      "phone": 68000003,
+      "location": "Elbasan",
+      "isCustomer": false
+    },
+    {
+      "id": "2065",
+      "firstName": "Edmond",
+      "lastName": "Dauti",
+      "email": "edmond@gmail.com",
+      "phone": 69398612312,
+      "location": "Elbasan",
+      "isCustomer": true
+    }
+  ]
+}
